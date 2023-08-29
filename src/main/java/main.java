@@ -6,4 +6,5 @@ public class main {
     String str3;
     String str4;
     String str5;
+    Long long2;
 }
