@@ -1,2 +1,2 @@
-public class MainException extends Exception{
+public class MainException extends Exception {
 }

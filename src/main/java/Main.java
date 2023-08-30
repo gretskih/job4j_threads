@@ -1,6 +1,6 @@
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class main {
+public class Main {
     int x;
     int y;
     String str1;
@@ -15,6 +15,10 @@ public class main {
     AtomicInteger atomicInteger;
     Solution solution = new Solution();
     Character ch2;
+
+    public void printHey() {
+        System.out.println("Hey");
+    }
 }
 
 class Solution {
@@ -24,4 +28,5 @@ class Solution {
 
 class SolutionNew {
     Solution solution = new Solution();
+
 }
