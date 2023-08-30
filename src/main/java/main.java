@@ -3,4 +3,5 @@ public class main {
     int y;
     String str1;
     String str2;
+    Character ch3;
 }
