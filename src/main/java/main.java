@@ -22,6 +22,6 @@ class Solution {
     Character ch3;
 }
 
-class SolutionnnNew {
+class SolutionNew {
 
 }
