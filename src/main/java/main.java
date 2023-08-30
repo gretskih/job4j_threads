@@ -13,6 +13,7 @@ public class main {
     Long long3;
     AtomicInteger atomicInteger;
     Solution solution = new Solution();
+    Character ch2;
 }
 
 class Solution {
