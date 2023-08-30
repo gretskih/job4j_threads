@@ -1,3 +1,5 @@
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class main {
     int x;
     int y;
@@ -7,4 +9,12 @@ public class main {
     String str4;
     String str5;
     Long long1;
+    Long long2;
+    Long long3;
+    AtomicInteger atomicInteger;
+    Solution solution = new Solution();
+}
+
+class Solution {
+
 }
