@@ -18,7 +18,10 @@ public class main {
 }
 
 class Solution {
-
     String str2;
     Character ch3;
+}
+
+class SolutionnnNew {
+
 }
