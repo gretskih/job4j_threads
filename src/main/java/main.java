@@ -23,5 +23,5 @@ class Solution {
 }
 
 class SolutionNew {
-
+    Solution solution = new Solution();
 }
