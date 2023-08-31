@@ -19,6 +19,7 @@ public class Main {
     public void printHey() {
         System.out.println("Hey");
         System.out.println("Tom");
+        System.out.println("!");
     }
 }
 
