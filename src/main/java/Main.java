@@ -21,6 +21,7 @@ public class Main {
         System.out.println("Tom");
         System.out.println("!");
         System.out.println(x);
+        System.out.println(str1 + str2);
     }
 }
 
