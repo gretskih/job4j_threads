@@ -20,6 +20,7 @@ public class Main {
         System.out.println("Hey");
         System.out.println("Tom");
         System.out.println("!");
+        System.out.println(str1 + str2);
     }
 }
 
