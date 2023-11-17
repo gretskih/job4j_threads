@@ -26,7 +26,8 @@ public class Main {
         System.out.println("Новое1!");
     }
 
-    public static void main(String[] args) {
+    public static voi
+    main(String[] args) {
         System.out.printf("Имя: %2$s, возраст: %s", 22, "Иван");
     }
     
@@ -35,6 +36,8 @@ public class Main {
 class Solution {
     String str2;
     Character ch3;
+    String lfjghrjlgnh;
+    String hhhhhh;
 }
 
 class SolutionNew {
