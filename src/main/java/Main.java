@@ -22,7 +22,14 @@ public class Main {
         System.out.println("!");
         System.out.println(x);
         System.out.println(str1 + str2);
+        System.out.println("Новое!");
+        System.out.println("Новое1!");
     }
+
+    public static void main(String[] args) {
+        System.out.printf("Имя: %2$s, возраст: %s", 22, "Иван");
+    }
+    
 }
 
 class Solution {
